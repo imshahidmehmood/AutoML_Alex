@@ -176,7 +176,5 @@ $ optuna-dashboard sqlite:///db.sqlite3
 -   [ ] Build pipelines
 
 
-# Contact
 
-[Telegram Group](https://t.me/automlalex)
 
